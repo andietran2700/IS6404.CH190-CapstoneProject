@@ -1,3 +1,4 @@
+The folder structure is:
 •	Code/Proposed_Models/SMAXGB.py: code for SMA-XGB model without custom loss function
 •	Code/Proposed_Models/SMAXGBHG.py: code for SMA-XGB model with HG loss function
 
